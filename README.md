@@ -1,8 +1,8 @@
 # 11501_CS203A 課程紀錄與學習歷程
 
 ## 學生資訊 (Student Information)
-* **姓名**：[洪靖媛]
-* **學號**：[1141523]
+* **姓名**：洪靖媛
+* **學號**：1141523
 * **GitHub 帳號**：[https://github.com/Grape-Hung](https://github.com/Grape-Hung)
 
 ## 課程與倉庫說明 (Course & Repo Description)
