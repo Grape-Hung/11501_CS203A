@@ -1,4 +1,6 @@
 # 11501_CS203A
+My name：洪靖媛
+Student ID：1141523
 GitHub account：https://github.com/Grape-Hung/
 Course Repository：11501_CS203A
 Course Repository URL：https://github.com/Grape-Hung/11501_CS203A
